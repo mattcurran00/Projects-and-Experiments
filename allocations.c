@@ -1,3 +1,5 @@
+//Program intended for my own workplace, in future intending to to include a front end. This is a basic booking management system.
+
 #include <stdio.h>
 #include <string.h>
 
